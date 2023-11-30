@@ -1,0 +1,7 @@
+Nome: Giovanni Willian Ferreira da Silva
+
+1º ?
+2º ?
+3º Falta o ";" na terceira linha, as variaveis foram declaradas de forma errada (4º linha), a variavel "N" não foi declarada, nenhuma das variaveis foi mostrada na tela, deveria ter um 0 após "return".
+4º
+5º A saida é 200
